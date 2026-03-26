@@ -9,6 +9,6 @@
 **Open with Packet Tracer:** Lab-VLAN-Firewall.pkt
 
 ![VLANs](vlan-config.png)
-![Pings OK](pings-ok.png)  
+![Pings OK](ping-ok.png)  
 ![Firewall](firewall-block.png)
 ![Topologie](topologie.png)
